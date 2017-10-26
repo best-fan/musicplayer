@@ -6,14 +6,6 @@
 ## 效果图
 ![软件截图](https://github.com/best-fan/musicplayer/blob/master/img/main.jpg)  
 ![软件截图](https://github.com/best-fan/musicplayer/blob/master/img/main1.jpg)  
-## API
-* 天气数据:彩云天气
-* 定位数据:高德地图
-## 项目技术
-* MVP架构
-* OKhttp  
-* Fastson
-* AndPermission
-* 自定义View
-## APP下载
-[app-debug.apk](https://github.com/best-fan/Beautiful_Weather/blob/master/app/app-debug.apk)
+
+## 软件下载
+[musicplay.apk](https://github.com/best-fan/musicplayer/blob/master/MusicPlayer/x86/%E6%92%AD%E6%94%BE%E5%99%A8.zip)
