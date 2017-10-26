@@ -8,4 +8,4 @@
 ![软件截图](https://github.com/best-fan/musicplayer/blob/master/img/main1.jpg)  
 
 ## 软件下载
-[musicplay.apk](https://github.com/best-fan/musicplayer/blob/master/MusicPlayer/x86/%E6%92%AD%E6%94%BE%E5%99%A8.zip)
+[musicplay](https://github.com/best-fan/musicplayer/blob/master/MusicPlayer/x86/%E6%92%AD%E6%94%BE%E5%99%A8.zip)
